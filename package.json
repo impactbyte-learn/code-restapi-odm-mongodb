@@ -1,0 +1,9 @@
+{
+  "name": "code-restapi-odm-mongodb",
+  "version": "0.1.0",
+  "description": "Code REST API ODM MongoDB",
+  "main": "index.js",
+  "author": "M Haidar Hanif <npm@mhaidarhanif.com>",
+  "license": "MIT",
+  "private": true
+}
